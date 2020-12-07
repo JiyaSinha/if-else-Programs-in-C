@@ -1,4 +1,7 @@
 # if-else-Programs-in-C
+The if/else statement executes a block of code if a specified condition is true. If the condition is false, another block of code can be executed.
+The if/else statement is a part of JavaScript's "Conditional" Statements, which are used to perform different actions based on different conditions.
+These simple programs have the capability to improve advanced softwares.
 Assignment Questions:
 1. Write a C program to check whether a number is divisible by 5 and 11 or not.
 2. Write a C program to check whether a character is uppercase or lowercase alphabet.
